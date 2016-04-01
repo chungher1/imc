@@ -14,6 +14,7 @@ public abstract class Pessoa {
     private String idade;
     private String peso;
     private String altura;
+    private String oi;
 
     public Pessoa(String nome, String idade, String peso, String altura) {
         this.nome = nome;
